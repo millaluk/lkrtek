@@ -1,2 +1,6 @@
 # lkrtek
-Repository for OPS445
+*Repository for OPS445*
+
+Full name: Lukas Millar 
+
+Section: OPS445NAA
