@@ -1,4 +1,3 @@
-# lkrtek
 *Repository for OPS445*
 
 Full name: Lukas Millar 
